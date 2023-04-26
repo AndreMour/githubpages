@@ -1,0 +1,78 @@
+body{
+    color:white;
+    background-color: rgb(15, 24, 29);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    background-color: darkslategray;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+header img{
+    width: 130px;
+    height: 130px;
+    border-radius: 70%;
+    border: 3px solid darkslategray;
+} 
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: darkslategray;
+    margin-top: 80px;
+    padding-inline-start: 30px;
+    padding-top: 10px;
+    
+}
+
+footer a{
+    margin: 20px;
+    text-align: center;
+    
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+project{
+    background-color: black;
+}
+

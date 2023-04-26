@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(15, 24, 29);
+    color:white;
+    padding: 16px;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 40px;
+    background-color: darkslategray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+h3{
+    padding-top: 30px;
+    padding-inline-start: 20px;
+}
